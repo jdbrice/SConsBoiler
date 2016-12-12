@@ -27,3 +27,13 @@
 *.exe
 *.out
 *.app
+
+
+# Common data artifacts
+*.root
+*.pdf
+*.png
+*.jpeg
+*.jpg
+
+*.sconsign.dblite
